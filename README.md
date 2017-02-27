@@ -1,5 +1,5 @@
-# Zybo Template <!-- Replace this line with the project name -->
+# Zybo hdmi-in <!-- Replace this line with the project name -->
 Created for Vivado 2016.4
 
-[Link to the project wiki](https://reference.digilentinc.com/doku.php)
+[Link to the project wiki](https://reference.digilentinc.com/learn/programmable-logic/tutorials/zybo-hdmi-demo/start)
 
